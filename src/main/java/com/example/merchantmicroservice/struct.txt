@@ -1,0 +1,17 @@
+
+{
+    "productId": " ",
+    "variantId": " ",
+    "merchantId": " ",
+    "price": ,
+    "stockAvailable": ,
+    "stockSold": ,
+    "averageUserRating": ,
+    "aggregatedScore":
+}
+
+{
+    "merchantId": "",
+    "merchantName": "",
+    "merchantRating": ""
+}
